@@ -1,0 +1,15 @@
+.app-component-container {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+@media(max-width: 1600px) {
+  .app-component-container {
+    height: auto;
+  }
+}
