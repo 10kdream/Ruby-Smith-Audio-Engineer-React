@@ -5063,7 +5063,7 @@
     width: 519px;
     height: 487px;
     font-size: 16px;
-    line-height: 36px;
+    line-height: 21px;
   }
   .home-text552 {
     font-weight: 700;
@@ -5609,7 +5609,7 @@
   }
   .home-caption {
     font-size: 16px;
-    line-height: 24px;
+    line-height: 21px;
   }
   .home-discography {
     gap: var(--dl-space-space-oneandhalfunits);
@@ -6156,7 +6156,7 @@
     font-size: 16px;
     align-self: center;
     margin-top: 0px;
-    line-height: 36px;
+    line-height: 21px;
   }
   .home-container133 {
     display: none;
