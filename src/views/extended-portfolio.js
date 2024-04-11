@@ -8,10 +8,10 @@ const ExtendedPortfolio = (props) => {
   return (
     <div className="extended-portfolio-container">
       <Helmet>
-        <title>Extended-Portfolio - Ruby Smith | Audio Engineer</title>
+        <title>Extended-Portfolio - Ruby Smith | MIXSMITH</title>
         <meta
           property="og:title"
-          content="Extended-Portfolio - Ruby Smith | Audio Engineer"
+          content="Extended-Portfolio - Ruby Smith | MIXSMITH"
         />
       </Helmet>
     </div>

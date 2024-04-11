@@ -28,10 +28,10 @@ const NavigationLinks = (props) => {
 
 NavigationLinks.defaultProps = {
   text4: 'Blog',
-  text1: 'Listen',
-  text3: 'Contact',
-  text: 'About',
-  text2: 'What I Do',
+  text1: 'LISTEN',
+  text3: 'CONTACT',
+  text: 'ABOUT',
+  text2: 'WHAT I DO',
   rootClassName: '',
 }
 
