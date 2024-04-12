@@ -4183,20 +4183,6 @@
   justify-content: center;
 }
 .home-text733 {
-  top: 89px;
-  left: 79px;
-  color: var(--dl-color-primary-whiteish);
-  position: absolute;
-  align-self: flex-start;
-  font-style: normal;
-  text-align: right;
-  font-family: Raleway;
-  font-weight: 300;
-}
-.home-text734 {
-  font-size: 20px;
-}
-.home-text738 {
   top: 120px;
   left: 378px;
   color: var(--dl-color-primary-whiteish);
@@ -4207,7 +4193,7 @@
   font-family: Raleway;
   font-weight: 300;
 }
-.home-text742 {
+.home-text737 {
   top: 173px;
   left: 67px;
   color: var(--dl-color-primary-whiteish);
@@ -4219,7 +4205,7 @@
   font-family: Raleway;
   font-weight: 300;
 }
-.home-text743 {
+.home-text738 {
   font-size: 20px;
 }
 .home-icon24 {
@@ -4267,6 +4253,20 @@
 }
 .home-icon28:hover {
   fill: var(--dl-color-primary-tea);
+}
+.home-text742 {
+  top: 89px;
+  left: 79px;
+  color: var(--dl-color-primary-whiteish);
+  position: absolute;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: right;
+  font-family: Raleway;
+  font-weight: 300;
+}
+.home-text743 {
+  font-size: 20px;
 }
 .home-footer {
   width: 100%;
@@ -5227,13 +5227,13 @@
     width: 404px;
     height: 342px;
   }
-  .home-text733 {
+  .home-text742 {
     color: var(--dl-color-primary-whiteish);
     font-style: normal;
     font-family: Raleway;
     font-weight: 300;
   }
-  .home-text734 {
+  .home-text743 {
     font-size: 20px;
     font-weight: 700;
   }
@@ -5502,7 +5502,7 @@
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
-  .home-text733 {
+  .home-text737 {
     z-index: 800;
   }
   .home-text742 {
@@ -6203,27 +6203,23 @@
     justify-content: center;
   }
   .home-text733 {
-    left: 50px;
-    bottom: 153px;
-  }
-  .home-text738 {
-    top: 126px;
+    top: 127px;
     left: 226px;
     position: absolute;
     align-self: flex-start;
     text-align: left;
   }
-  .home-text742 {
-    top: 160px;
-    left: 46px;
+  .home-text737 {
+    top: 163px;
+    left: 31px;
   }
   .home-icon24 {
-    top: 91px;
-    left: 43px;
+    top: 70px;
+    left: 33px;
   }
   .home-icon26 {
     left: 275px;
-    bottom: 27px;
+    bottom: 34px;
     z-index: 800;
     position: absolute;
     align-self: flex-start;
@@ -6234,6 +6230,10 @@
     z-index: 800;
     position: absolute;
     align-self: flex-end;
+  }
+  .home-text742 {
+    top: 67px;
+    left: 36px;
   }
   .home-footer {
     height: 331px;
