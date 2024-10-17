@@ -3,59 +3,18 @@
   position: relative;
 }
 @media(max-width: 479px) {
-  .component1-text {
+  .component1-text10 {
     width: 80%;
     align-self: flex-start;
   }
-  .component1-text01 {
+  .component1-text11 {
     color: var(--dl-color-primary-submarine);
     font-family: Source Code Pro;
     font-weight: 700;
-  }
-  .component1-text02 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text03 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text04 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text05 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text06 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text07 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text08 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text09 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text10 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
-  }
-  .component1-text11 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
   }
   .component1-text12 {
-    color: var(--dl-color-primary-submarine);
+    color: var(--dl-color-primary-whiteish);
     font-family: Source Code Pro;
-    font-weight: 700;
   }
   .component1-text13 {
     color: var(--dl-color-primary-whiteish);
@@ -94,8 +53,9 @@
     font-family: Source Code Pro;
   }
   .component1-text22 {
-    color: var(--dl-color-primary-whiteish);
+    color: var(--dl-color-primary-submarine);
     font-family: Source Code Pro;
+    font-weight: 700;
   }
   .component1-text23 {
     color: var(--dl-color-primary-whiteish);
@@ -106,9 +66,8 @@
     font-family: Source Code Pro;
   }
   .component1-text25 {
-    color: var(--dl-color-primary-submarine);
+    color: var(--dl-color-primary-whiteish);
     font-family: Source Code Pro;
-    font-weight: 700;
   }
   .component1-text26 {
     color: var(--dl-color-primary-whiteish);
@@ -147,8 +106,9 @@
     font-family: Source Code Pro;
   }
   .component1-text35 {
-    color: var(--dl-color-primary-whiteish);
+    color: var(--dl-color-primary-submarine);
     font-family: Source Code Pro;
+    font-weight: 700;
   }
   .component1-text36 {
     color: var(--dl-color-primary-whiteish);
@@ -175,9 +135,8 @@
     font-family: Source Code Pro;
   }
   .component1-text42 {
-    color: var(--dl-color-primary-submarine);
+    color: var(--dl-color-primary-whiteish);
     font-family: Source Code Pro;
-    font-weight: 700;
   }
   .component1-text43 {
     color: var(--dl-color-primary-whiteish);
@@ -212,13 +171,13 @@
     font-family: Source Code Pro;
   }
   .component1-text51 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text52 {
     color: var(--dl-color-primary-submarine);
     font-family: Source Code Pro;
     font-weight: 700;
-  }
-  .component1-text52 {
-    color: var(--dl-color-primary-whiteish);
-    font-family: Source Code Pro;
   }
   .component1-text53 {
     color: var(--dl-color-primary-whiteish);
@@ -282,15 +241,56 @@
     font-family: Source Code Pro;
   }
   .component1-text68 {
-    color: var(--dl-color-primary-submarine);
+    color: var(--dl-color-primary-whiteish);
     font-family: Source Code Pro;
-    font-weight: 700;
   }
   .component1-text69 {
     color: var(--dl-color-primary-whiteish);
     font-family: Source Code Pro;
   }
   .component1-text70 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text71 {
+    color: var(--dl-color-primary-submarine);
+    font-family: Source Code Pro;
+    font-weight: 700;
+  }
+  .component1-text72 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text73 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text74 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text75 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text76 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text77 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text78 {
+    color: var(--dl-color-primary-submarine);
+    font-family: Source Code Pro;
+    font-weight: 700;
+  }
+  .component1-text79 {
+    color: var(--dl-color-primary-whiteish);
+    font-family: Source Code Pro;
+  }
+  .component1-text80 {
     color: var(--dl-color-primary-whiteish);
     font-family: Source Code Pro;
   }

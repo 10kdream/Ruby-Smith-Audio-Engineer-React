@@ -10,23 +10,23 @@ const BlogPostCard1 = (props) => {
       <img
         alt={props.imageAlt}
         src={props.imageSrc}
-        className="blog-post-card1-image"
+        className="blog-post-card1-image1"
       />
-      <div className="blog-post-card1-container">
-        <span className="blog-post-card1-text">{props.label}</span>
-        <span className="blog-post-card1-text1">{props.title}</span>
-        <span className="blog-post-card1-text2">{props.description}</span>
-        <div className="blog-post-card1-container1">
+      <div className="blog-post-card1-container1">
+        <span className="blog-post-card1-text1">{props.label}</span>
+        <span className="blog-post-card1-text2">{props.title}</span>
+        <span className="blog-post-card1-text3">{props.description}</span>
+        <div className="blog-post-card1-container2">
           <div className="blog-post-card1-profile">
             <img
               alt={props.profileAlt}
               src={props.profileSrc}
               image_src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fG1hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTYyNjQzMTMwMw&amp;ixlib=rb-1.2.1&amp;h=1200"
-              className="blog-post-card1-image1"
+              className="blog-post-card1-image2"
             />
-            <span className="blog-post-card1-text3">{props.author}</span>
+            <span className="blog-post-card1-text4">{props.author}</span>
           </div>
-          <span className="blog-post-card1-text4">{props.time}</span>
+          <span className="blog-post-card1-text5">{props.time}</span>
         </div>
       </div>
     </div>

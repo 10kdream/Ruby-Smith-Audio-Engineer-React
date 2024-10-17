@@ -12,8 +12,8 @@ const GalleryCard1 = (props) => {
         src={props.imageSrc}
         className="gallery-card1-image"
       />
-      <h2 className="gallery-card1-text">{props.title}</h2>
-      <span className="gallery-card1-text1">{props.subtitle}</span>
+      <h2 className="gallery-card1-text1">{props.title}</h2>
+      <span className="gallery-card1-text2">{props.subtitle}</span>
     </div>
   )
 }

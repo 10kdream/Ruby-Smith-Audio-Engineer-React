@@ -1,4 +1,4 @@
-.app-component-container {
+.component-container {
   flex: 0 0 auto;
   width: auto;
   border: 2px dashed rgba(120, 120, 120, 0.4);
@@ -9,7 +9,7 @@
   justify-content: center;
 }
 @media(max-width: 1600px) {
-  .app-component-container {
+  .component-container {
     height: auto;
   }
 }
