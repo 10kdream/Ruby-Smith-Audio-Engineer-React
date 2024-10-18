@@ -1100,7 +1100,7 @@ new BlazeSlider(el, {
           <div className="home-container168">
             <img
               alt="image"
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbogVSdMldR0kMqxJi4rgvTU-I8wnhjeHtnA&amp;s"
+              src="https://cdns-images.dzcdn.net/images/cover/0a7f8901401902c6aea5e6d7757bf6fe/0x1900-000000-80-0-0.jpg"
               className="home-image151 covert-art"
             />
             <div className="text-padding">
