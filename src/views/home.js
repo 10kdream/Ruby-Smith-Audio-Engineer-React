@@ -1062,18 +1062,17 @@ new BlazeSlider(el, {
           <div className="home-container164">
             <img
               alt="image"
-              src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/461102341_18460160803024529_4076707723078489918_n.jpg?stp=dst-jpg_s1080x2048&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=D_FOOLwiHuMQ7kNvgEhXhYf&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.xx&amp;_nc_gid=A-HZsfBAhNkGc3FoNc5iMxY&amp;oh=00_AYD59Nq5T4yrUb8axUJKBo0hEzEXwz7Bs9_YEe7CBDplYw&amp;oe=67307B9F"
+              src="https://globalmoneyworld.com/wp-content/uploads/2024/03/Sophie-Sutton-Nurse-1170x1170.jpg"
               className="home-image149 covert-art"
             />
             <div className="text-padding">
               <span className="home-text481 text-margin AArtistName">
-                <span className="AArtistName">Lana Lubany</span>
-                <br></br>
+                Sophie Sutton
               </span>
-              <span className="home-text484 text-margin ASongTitle">
-                &quot;YAFA&quot; EP
+              <span className="home-text482 text-margin">
+                &quot;Nurse&quot;
               </span>
-              <span className="home-text485 text-margin">
+              <span className="home-text483 text-margin">
                 <span className="ARole">Mixer</span>
                 <br></br>
               </span>
@@ -1082,15 +1081,16 @@ new BlazeSlider(el, {
           <div className="home-container166">
             <img
               alt="image"
-              src="https://globalmoneyworld.com/wp-content/uploads/2024/03/Sophie-Sutton-Nurse-1170x1170.jpg"
+              src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/461102341_18460160803024529_4076707723078489918_n.jpg?stp=dst-jpg_s1080x2048&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=D_FOOLwiHuMQ7kNvgEhXhYf&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.xx&amp;_nc_gid=A-HZsfBAhNkGc3FoNc5iMxY&amp;oh=00_AYD59Nq5T4yrUb8axUJKBo0hEzEXwz7Bs9_YEe7CBDplYw&amp;oe=67307B9F"
               className="home-image150 covert-art"
             />
             <div className="text-padding">
-              <span className="home-text488 text-margin AArtistName">
-                Sophie Sutton
+              <span className="home-text486 text-margin AArtistName">
+                <span className="AArtistName">Lana Lubany</span>
+                <br></br>
               </span>
-              <span className="home-text489 text-margin">
-                &quot;Nurse&quot;
+              <span className="home-text489 text-margin ASongTitle">
+                &quot;YAFA&quot; EP
               </span>
               <span className="home-text490 text-margin">
                 <span className="ARole">Mixer</span>
@@ -1101,15 +1101,13 @@ new BlazeSlider(el, {
           <div className="home-container168">
             <img
               alt="image"
-              src="https://i.scdn.co/image/ab67616d0000b2738d690de2382ce84f64ca2272"
+              src="https://cdns-images.dzcdn.net/images/cover/0a7f8901401902c6aea5e6d7757bf6fe/0x1900-000000-80-0-0.jpg"
               className="home-image151 covert-art"
             />
             <div className="text-padding">
-              <span className="home-text493 text-margin AArtistName">
-                Lana Lubany
-              </span>
+              <span className="home-text493 AArtistName text-margin">RYL0</span>
               <span className="home-text494 text-margin">
-                &quot;NAZARETH&quot;
+                &quot;Gimme A Break&quot;
               </span>
               <span className="home-text495 text-margin">
                 <span className="ARole">Mixer</span>
@@ -1120,16 +1118,20 @@ new BlazeSlider(el, {
           <div className="home-container170">
             <img
               alt="image"
-              src="https://cdns-images.dzcdn.net/images/cover/0a7f8901401902c6aea5e6d7757bf6fe/0x1900-000000-80-0-0.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/5d7018647df27100010e1f66/c8713beb-ebfd-49a0-a6fe-bef3ee4b28ec/Nicki+Minaj.png"
               className="home-image152 covert-art"
             />
-            <div className="text-padding">
-              <span className="home-text498 AArtistName text-margin">RYL0</span>
+            <div className="home-container171 text-padding">
+              <span className="home-text498 AArtistName text-margin">
+                Nikki Minaj
+              </span>
               <span className="home-text499 text-margin">
-                &quot;Gimme A Break&quot;
+                &quot;Are You Gone Already&quot;, &apos;Let Me Calm Down (ft. J
+                Cole)&quot;, &quot;Pink Birthday&quot;, &quot;Blessings (ft
+                Tasha Cobbs Leonard)&quot;
               </span>
               <span className="home-text500 text-margin">
-                <span className="ARole">Mixer</span>
+                <span className="ARole">Assistant Mixer</span>
                 <br></br>
               </span>
             </div>
@@ -1137,17 +1139,15 @@ new BlazeSlider(el, {
           <div className="home-container172">
             <img
               alt="image"
-              src="https://images.squarespace-cdn.com/content/v1/5d7018647df27100010e1f66/c8713beb-ebfd-49a0-a6fe-bef3ee4b28ec/Nicki+Minaj.png"
+              src="https://external-preview.redd.it/240524-newjeans-how-sweet-bubble-gum-v0-P0brvD4RUWW-OV2Ag0WeFc45AVflZFx1iGgJr1FxFwE.jpg?auto=webp&amp;s=90b2f2ed1c997fd24d0010e260b8ed85987c5d00"
               className="home-image153 covert-art"
             />
             <div className="home-container173 text-padding">
-              <span className="home-text503 AArtistName text-margin">
-                Nikki Minaj
+              <span className="home-text503 text-margin AArtistName">
+                NewJeans
               </span>
               <span className="home-text504 text-margin">
-                &quot;Are You Gone Already&quot;, &apos;Let Me Calm Down (ft. J
-                Cole)&quot;, &quot;Pink Birthday&quot;, &quot;Blessings (ft
-                Tasha Cobbs Leonard)&quot;
+                &quot;How Sweet &amp; Bubble Gum&quot;
               </span>
               <span className="home-text505 text-margin">
                 <span className="ARole">Assistant Mixer</span>
@@ -1158,15 +1158,15 @@ new BlazeSlider(el, {
           <div className="home-container174">
             <img
               alt="image"
-              src="https://external-preview.redd.it/240524-newjeans-how-sweet-bubble-gum-v0-P0brvD4RUWW-OV2Ag0WeFc45AVflZFx1iGgJr1FxFwE.jpg?auto=webp&amp;s=90b2f2ed1c997fd24d0010e260b8ed85987c5d00"
+              src="https://cdns-images.dzcdn.net/images/cover/3d8d343008427bca7f1f7f30281d5bb0/0x1900-000000-80-0-0.jpg"
               className="home-image154 covert-art"
             />
             <div className="home-container175 text-padding">
               <span className="home-text508 text-margin AArtistName">
-                NewJeans
+                Jessie Murph
               </span>
               <span className="home-text509 text-margin">
-                &quot;How Sweet &amp; Bubble Gum&quot;
+                &quot;That Ain&apos;t No Man That&apos;s The Devil&quot;
               </span>
               <span className="home-text510 text-margin">
                 <span className="ARole">Assistant Mixer</span>
@@ -1177,18 +1177,18 @@ new BlazeSlider(el, {
           <div className="home-container176">
             <img
               alt="image"
-              src="https://cdns-images.dzcdn.net/images/cover/3d8d343008427bca7f1f7f30281d5bb0/0x1900-000000-80-0-0.jpg"
+              src="https://i1.sndcdn.com/artworks-8vxxbW8sFS0f-0-t500x500.jpg"
               className="home-image155 covert-art"
             />
-            <div className="home-container177 text-padding">
+            <div className="text-padding">
               <span className="home-text513 text-margin AArtistName">
-                Jessie Murph
+                Lana Lubany
               </span>
               <span className="home-text514 text-margin">
-                &quot;That Ain&apos;t No Man That&apos;s The Devil&quot;
+                &quot;PRAYERS&quot;
               </span>
               <span className="home-text515 text-margin">
-                <span className="ARole">Assistant Mixer</span>
+                <span className="ARole">Mixer</span>
                 <br></br>
               </span>
             </div>
@@ -1196,7 +1196,7 @@ new BlazeSlider(el, {
           <div className="home-container178">
             <img
               alt="image"
-              src="https://i1.sndcdn.com/artworks-8vxxbW8sFS0f-0-t500x500.jpg"
+              src="https://i.scdn.co/image/ab67616d0000b2738d690de2382ce84f64ca2272"
               className="home-image156 covert-art"
             />
             <div className="text-padding">
@@ -1204,7 +1204,7 @@ new BlazeSlider(el, {
                 Lana Lubany
               </span>
               <span className="home-text519 text-margin">
-                &quot;PRAYERS&quot;
+                &quot;NAZARETH&quot;
               </span>
               <span className="home-text520 text-margin">
                 <span className="ARole">Mixer</span>
