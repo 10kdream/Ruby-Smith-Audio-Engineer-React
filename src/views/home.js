@@ -1081,7 +1081,7 @@ new BlazeSlider(el, {
           <div className="home-container166">
             <img
               alt="image"
-              src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/461102341_18460160803024529_4076707723078489918_n.jpg?stp=dst-jpg_s1080x2048&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=D_FOOLwiHuMQ7kNvgEhXhYf&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.xx&amp;_nc_gid=A-HZsfBAhNkGc3FoNc5iMxY&amp;oh=00_AYD59Nq5T4yrUb8axUJKBo0hEzEXwz7Bs9_YEe7CBDplYw&amp;oe=67307B9F"
+              src="https://i.scdn.co/image/ab67616d0000b27330c95f9c742de04e5e6eb1ac"
               className="home-image150 covert-art"
             />
             <div className="text-padding">
